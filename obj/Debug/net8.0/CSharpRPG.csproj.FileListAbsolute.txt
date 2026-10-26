@@ -1,0 +1,14 @@
+/home/john/workplace/CSharpRPG/bin/Debug/net8.0/CSharpRPG
+/home/john/workplace/CSharpRPG/bin/Debug/net8.0/CSharpRPG.deps.json
+/home/john/workplace/CSharpRPG/bin/Debug/net8.0/CSharpRPG.runtimeconfig.json
+/home/john/workplace/CSharpRPG/bin/Debug/net8.0/CSharpRPG.dll
+/home/john/workplace/CSharpRPG/bin/Debug/net8.0/CSharpRPG.pdb
+/home/john/workplace/CSharpRPG/obj/Debug/net8.0/CSharpRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/john/workplace/CSharpRPG/obj/Debug/net8.0/CSharpRPG.AssemblyInfoInputs.cache
+/home/john/workplace/CSharpRPG/obj/Debug/net8.0/CSharpRPG.AssemblyInfo.cs
+/home/john/workplace/CSharpRPG/obj/Debug/net8.0/CSharpRPG.csproj.CoreCompileInputs.cache
+/home/john/workplace/CSharpRPG/obj/Debug/net8.0/CSharpRPG.dll
+/home/john/workplace/CSharpRPG/obj/Debug/net8.0/refint/CSharpRPG.dll
+/home/john/workplace/CSharpRPG/obj/Debug/net8.0/CSharpRPG.pdb
+/home/john/workplace/CSharpRPG/obj/Debug/net8.0/CSharpRPG.genruntimeconfig.cache
+/home/john/workplace/CSharpRPG/obj/Debug/net8.0/ref/CSharpRPG.dll
